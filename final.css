@@ -1,0 +1,26 @@
+button{
+	width: 150px;
+	height: 100px;
+	
+}
+#clear{
+	width: 612px;
+	height: 100px;
+}
+
+#buttons{
+	text-align: center;
+	margin: auto;
+	
+}
+#entry{
+	
+	margin-left:478px;
+	height: 100px;
+	width: 608px;
+}
+#heading{
+	margin-left: 508px;
+	font-size: 200%;
+}
+
